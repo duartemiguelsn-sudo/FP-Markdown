@@ -1,16 +1,16 @@
 # FP-Markdown
 
-Nome do estudante
+Name's student
 
-**`Numero de estudante`**
+**`Number's student`**
 
-**Linguagem de programação conhecidas:**
+**Known program languages:**
  - C
  - Javascript
  - Python
  - ...
  ## 
  
->Metodologias de desenvolvimento de Software @ 2020
+>Software development methodologies @ 2020
 
 ![IPL](https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg)
